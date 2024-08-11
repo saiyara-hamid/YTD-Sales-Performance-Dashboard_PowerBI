@@ -8,7 +8,7 @@ This PowerBI dashboard includes the following features:
   - **PYTD**: Prior year-to-date sales performance.
   - **YTD vs PYTD**: A comparison between YTD and PYTD performance.
   - **Gross Profit**: Gross profit for the current year.
-- **STacked Coulmn Chart**: Displays the YTD performance in stacked columns (with product type within the stacks) vs. a line chart showing the total PYTD performance. The visual can be drilled-up to see the quarterly performance.
+- **Stacked Coulmn Chart**: Displays the YTD performance in stacked columns (with product type within the stacks) vs. a line chart showing the total PYTD performance. The visual can be drilled-up to see the quarterly performance.
 - **Treemap**: Displays the top 10 countries with the lowest YTD sales, quantity or gross profit, providing a quick overview of underperforming countries.
 - **Waterfall Chart**: Illustrates the YTD vs PYTD performance with drill-down options by country, month, and product type, helping to identify specific areas of lagging performance.
 - **Scatter Chart**: Allows customizable slicer values for YTD metrics and gross profit, aiding in the identification of customers who generate high gross profit but require increased sales volume, or vice versa.
